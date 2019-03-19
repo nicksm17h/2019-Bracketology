@@ -4,19 +4,6 @@ import requests
 import pickle
 
 
-'''t1_opp =
-t2_opp =
-t1_ppg =
-t2_ppg =
-t1_seed =
-t2_seed =
-rnd ='''
-
-
-
-
-# total = ()
-
 def get_seed_prob(seed, rnd):
 
     seed_row = seed - 1
